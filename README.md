@@ -6,6 +6,10 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-# Some Important Insights from the Dashboard
+## Some Important Insights from the Dashboard
 
-Mumbai generates the highest revenue, followed by Bangalore, Hyderabad and Delhi
+* Mumbai generates the highest revenue of 669 M, followed by Bangalore, Hyderabad and Delhi.
+* Elite type rooms attract most bookings but also exhibit a higher cancellation rate.
+* AtliQ Blu has the highest occupancy at 62%.
+* Makeyourtrip drives the highest revenue, contributing 341 M.
+* Delhi has the occupancy as well as rating
