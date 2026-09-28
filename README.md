@@ -12,4 +12,4 @@ Their revenue management team had decided to hire a 3rd party service provider t
 * Elite type rooms attract most bookings but also exhibit a higher cancellation rate.
 * AtliQ Blu has the highest occupancy at 62%.
 * Makeyourtrip drives the highest revenue, contributing 341 M.
-* Delhi has the occupancy as well as rating
+* Delhi has the highest occupancy as well as rating
