@@ -13,3 +13,4 @@ Their revenue management team had decided to hire a 3rd party service provider t
 * AtliQ Blu has the highest occupancy at 62%.
 * Makeyourtrip drives the highest revenue, contributing 341 M.
 * Delhi has the highest occupancy as well as rating
+<img width="1155" height="652" alt="image" src="https://github.com/user-attachments/assets/e0106044-be7b-4681-b8f5-895d31a506b8" />
